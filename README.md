@@ -15,5 +15,5 @@ Proxy all requests from `https://gp.now.sh/` to `https://www.google.com/`
 
 [license-src]: https://badgen.net/badge/license/MIT/blue
 [license-href]: https://github.com/amio/google-proxy/blob/master/LICENSE
-[github-src]: https://badgen.net/badge//amio%2Fgoogle-proxy/black?icon=github
+[github-src]: https://badgen.net/badge/github/amio%2Fgoogle-proxy/black?icon&label
 [github-href]: https://github.com/amio/google-proxy
